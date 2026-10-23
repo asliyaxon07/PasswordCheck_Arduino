@@ -21,8 +21,8 @@ This project is a simple electronic password lock built using an Arduino Uno. Us
 | LCD SDA | A4 |
 | LCD SCL | A5 |
 | Digit button | D2 and GND |
-| Confirm button | D3 and GND |
-| Buzzer (+) | D8 |
+| Confirm button | D 4and GND |
+| Buzzer (+) | D6 |
 | Buzzer (-) | GND |
 
 Both buttons use the Arduino's internal pull-up resistors through `INPUT_PULLUP`.
